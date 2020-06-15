@@ -139,7 +139,8 @@ module.exports = {
         email: 'mail',
         title: 'title',
         objectClass: 'objectClass',
-        userName: 'sAMAccountName'
+        userName: 'sAMAccountName',
+        postalCode: 'postalCOde'
       };
 
       let later = [];
