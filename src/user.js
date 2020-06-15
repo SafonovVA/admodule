@@ -140,7 +140,7 @@ module.exports = {
         title: 'title',
         objectClass: 'objectClass',
         userName: 'sAMAccountName',
-        postalCode: 'postalCOde'
+        postalCode: 'postalCode'
       };
 
       let later = [];
